@@ -1,8 +1,8 @@
-### web part
+### Web part
 
 #### install pip
 
-``shell
+```shell
 sudo apt-get install python-pip
 ```
 
@@ -30,7 +30,7 @@ referrence:
 
 - https://docs.djangoproject.com/en/1.11/intro/
 
-### web server part
+### Web server part
 
 #### install uwsgi
 
